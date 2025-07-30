@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "titolo": "Paolo Conti ha inaugurato la nuova sede di DeltaSolutions",
+    "testo": "Oggi Paolo Conti ha inaugurato la nuova sede di DeltaSolutions. L'annuncio è stato fatto a Roma, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 2,
+    "titolo": "Mario Rossi ha acquisito DeltaSolutions",
+    "testo": "Oggi Mario Rossi ha acquisito DeltaSolutions. L'annuncio è stato fatto a Roma, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 3,
+    "titolo": "Mario Rossi ha acquisito DeltaSolutions",
+    "testo": "Oggi Mario Rossi ha acquisito DeltaSolutions. L'annuncio è stato fatto a Bologna, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 4,
+    "titolo": "Chiara Moretti ha firmato un accordo con DeltaSolutions",
+    "testo": "Oggi Chiara Moretti ha firmato un accordo con DeltaSolutions. L'annuncio è stato fatto a Firenze, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 5,
+    "titolo": "Giuseppe Verdi ha annunciato una collaborazione con BetaCorp",
+    "testo": "Oggi Giuseppe Verdi ha annunciato una collaborazione con BetaCorp. L'annuncio è stato fatto a Torino, in occasione di un'iniziativa ambientale. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 6,
+    "titolo": "Giuseppe Verdi è stato nominato CEO di AlfaTech",
+    "testo": "Oggi Giuseppe Verdi è stato nominato CEO di AlfaTech. L'annuncio è stato fatto a Milano, in occasione di un'iniziativa ambientale. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 7,
+    "titolo": "Laura Bianchi ha inaugurato la nuova sede di GammaGroup",
+    "testo": "Oggi Laura Bianchi ha inaugurato la nuova sede di GammaGroup. L'annuncio è stato fatto a Bologna, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 8,
+    "titolo": "Mario Rossi ha acquisito AlfaTech",
+    "testo": "Oggi Mario Rossi ha acquisito AlfaTech. L'annuncio è stato fatto a Bologna, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 9,
+    "titolo": "Giuseppe Verdi ha annunciato una collaborazione con AlfaTech",
+    "testo": "Oggi Giuseppe Verdi ha annunciato una collaborazione con AlfaTech. L'annuncio è stato fatto a Milano, in occasione di un piano di espansione. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 10,
+    "titolo": "Paolo Conti è stato nominato CEO di GammaGroup",
+    "testo": "Oggi Paolo Conti è stato nominato CEO di GammaGroup. L'annuncio è stato fatto a Bologna, in occasione di un'iniziativa ambientale. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 11,
+    "titolo": "Mario Rossi ha acquisito DeltaSolutions",
+    "testo": "Oggi Mario Rossi ha acquisito DeltaSolutions. L'annuncio è stato fatto a Bologna, in occasione di un'iniziativa ambientale. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 12,
+    "titolo": "Anna Neri è stato nominato CEO di AlfaTech",
+    "testo": "Oggi Anna Neri è stato nominato CEO di AlfaTech. L'annuncio è stato fatto a Milano, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 13,
+    "titolo": "Mario Rossi è stato nominato CEO di BetaCorp",
+    "testo": "Oggi Mario Rossi è stato nominato CEO di BetaCorp. L'annuncio è stato fatto a Torino, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 14,
+    "titolo": "Giuseppe Verdi ha annunciato una collaborazione con AlfaTech",
+    "testo": "Oggi Giuseppe Verdi ha annunciato una collaborazione con AlfaTech. L'annuncio è stato fatto a Torino, in occasione di un piano di espansione. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 15,
+    "titolo": "Paolo Conti ha inaugurato la nuova sede di AlfaTech",
+    "testo": "Oggi Paolo Conti ha inaugurato la nuova sede di AlfaTech. L'annuncio è stato fatto a Firenze, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 16,
+    "titolo": "Paolo Conti ha firmato un accordo con AlfaTech",
+    "testo": "Oggi Paolo Conti ha firmato un accordo con AlfaTech. L'annuncio è stato fatto a Roma, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 17,
+    "titolo": "Anna Neri ha inaugurato la nuova sede di BetaCorp",
+    "testo": "Oggi Anna Neri ha inaugurato la nuova sede di BetaCorp. L'annuncio è stato fatto a Roma, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 18,
+    "titolo": "Paolo Conti ha acquisito BetaCorp",
+    "testo": "Oggi Paolo Conti ha acquisito BetaCorp. L'annuncio è stato fatto a Bologna, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 19,
+    "titolo": "Paolo Conti è stato nominato CEO di GammaGroup",
+    "testo": "Oggi Paolo Conti è stato nominato CEO di GammaGroup. L'annuncio è stato fatto a Torino, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 20,
+    "titolo": "Paolo Conti ha firmato un accordo con BetaCorp",
+    "testo": "Oggi Paolo Conti ha firmato un accordo con BetaCorp. L'annuncio è stato fatto a Firenze, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 21,
+    "titolo": "Paolo Conti ha inaugurato la nuova sede di BetaCorp",
+    "testo": "Oggi Paolo Conti ha inaugurato la nuova sede di BetaCorp. L'annuncio è stato fatto a Bologna, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 22,
+    "titolo": "Chiara Moretti ha inaugurato la nuova sede di GammaGroup",
+    "testo": "Oggi Chiara Moretti ha inaugurato la nuova sede di GammaGroup. L'annuncio è stato fatto a Roma, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 23,
+    "titolo": "Giuseppe Verdi ha firmato un accordo con DeltaSolutions",
+    "testo": "Oggi Giuseppe Verdi ha firmato un accordo con DeltaSolutions. L'annuncio è stato fatto a Roma, in occasione di un piano di espansione. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 24,
+    "titolo": "Laura Bianchi ha annunciato una collaborazione con BetaCorp",
+    "testo": "Oggi Laura Bianchi ha annunciato una collaborazione con BetaCorp. L'annuncio è stato fatto a Milano, in occasione di un piano di espansione. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 25,
+    "titolo": "Anna Neri ha acquisito GammaGroup",
+    "testo": "Oggi Anna Neri ha acquisito GammaGroup. L'annuncio è stato fatto a Torino, in occasione di un piano di espansione. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 26,
+    "titolo": "Giuseppe Verdi ha firmato un accordo con DeltaSolutions",
+    "testo": "Oggi Giuseppe Verdi ha firmato un accordo con DeltaSolutions. L'annuncio è stato fatto a Bologna, in occasione di un'iniziativa ambientale. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 27,
+    "titolo": "Giuseppe Verdi ha firmato un accordo con BetaCorp",
+    "testo": "Oggi Giuseppe Verdi ha firmato un accordo con BetaCorp. L'annuncio è stato fatto a Napoli, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 28,
+    "titolo": "Giuseppe Verdi ha firmato un accordo con DeltaSolutions",
+    "testo": "Oggi Giuseppe Verdi ha firmato un accordo con DeltaSolutions. L'annuncio è stato fatto a Bologna, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 29,
+    "titolo": "Giuseppe Verdi ha acquisito GammaGroup",
+    "testo": "Oggi Giuseppe Verdi ha acquisito GammaGroup. L'annuncio è stato fatto a Napoli, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 30,
+    "titolo": "Mario Rossi ha annunciato una collaborazione con BetaCorp",
+    "testo": "Oggi Mario Rossi ha annunciato una collaborazione con BetaCorp. L'annuncio è stato fatto a Roma, in occasione di un'iniziativa ambientale. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 31,
+    "titolo": "Chiara Moretti ha acquisito DeltaSolutions",
+    "testo": "Oggi Chiara Moretti ha acquisito DeltaSolutions. L'annuncio è stato fatto a Bologna, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 32,
+    "titolo": "Paolo Conti ha acquisito GammaGroup",
+    "testo": "Oggi Paolo Conti ha acquisito GammaGroup. L'annuncio è stato fatto a Milano, in occasione di un piano di espansione. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 33,
+    "titolo": "Giuseppe Verdi ha firmato un accordo con AlfaTech",
+    "testo": "Oggi Giuseppe Verdi ha firmato un accordo con AlfaTech. L'annuncio è stato fatto a Napoli, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 34,
+    "titolo": "Chiara Moretti ha annunciato una collaborazione con BetaCorp",
+    "testo": "Oggi Chiara Moretti ha annunciato una collaborazione con BetaCorp. L'annuncio è stato fatto a Firenze, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 35,
+    "titolo": "Anna Neri ha annunciato una collaborazione con GammaGroup",
+    "testo": "Oggi Anna Neri ha annunciato una collaborazione con GammaGroup. L'annuncio è stato fatto a Bologna, in occasione di un'iniziativa ambientale. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 36,
+    "titolo": "Laura Bianchi ha inaugurato la nuova sede di BetaCorp",
+    "testo": "Oggi Laura Bianchi ha inaugurato la nuova sede di BetaCorp. L'annuncio è stato fatto a Milano, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 37,
+    "titolo": "Giuseppe Verdi ha inaugurato la nuova sede di BetaCorp",
+    "testo": "Oggi Giuseppe Verdi ha inaugurato la nuova sede di BetaCorp. L'annuncio è stato fatto a Torino, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 38,
+    "titolo": "Chiara Moretti ha annunciato una collaborazione con GammaGroup",
+    "testo": "Oggi Chiara Moretti ha annunciato una collaborazione con GammaGroup. L'annuncio è stato fatto a Napoli, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 39,
+    "titolo": "Mario Rossi ha inaugurato la nuova sede di BetaCorp",
+    "testo": "Oggi Mario Rossi ha inaugurato la nuova sede di BetaCorp. L'annuncio è stato fatto a Roma, in occasione di un piano di espansione. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 40,
+    "titolo": "Mario Rossi ha inaugurato la nuova sede di DeltaSolutions",
+    "testo": "Oggi Mario Rossi ha inaugurato la nuova sede di DeltaSolutions. L'annuncio è stato fatto a Bologna, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 41,
+    "titolo": "Paolo Conti ha inaugurato la nuova sede di DeltaSolutions",
+    "testo": "Oggi Paolo Conti ha inaugurato la nuova sede di DeltaSolutions. L'annuncio è stato fatto a Firenze, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 42,
+    "titolo": "Anna Neri ha annunciato una collaborazione con AlfaTech",
+    "testo": "Oggi Anna Neri ha annunciato una collaborazione con AlfaTech. L'annuncio è stato fatto a Bologna, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 43,
+    "titolo": "Giuseppe Verdi ha firmato un accordo con GammaGroup",
+    "testo": "Oggi Giuseppe Verdi ha firmato un accordo con GammaGroup. L'annuncio è stato fatto a Roma, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 44,
+    "titolo": "Giuseppe Verdi ha acquisito AlfaTech",
+    "testo": "Oggi Giuseppe Verdi ha acquisito AlfaTech. L'annuncio è stato fatto a Bologna, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 45,
+    "titolo": "Laura Bianchi ha annunciato una collaborazione con BetaCorp",
+    "testo": "Oggi Laura Bianchi ha annunciato una collaborazione con BetaCorp. L'annuncio è stato fatto a Milano, in occasione di un piano di espansione. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 46,
+    "titolo": "Chiara Moretti ha firmato un accordo con BetaCorp",
+    "testo": "Oggi Chiara Moretti ha firmato un accordo con BetaCorp. L'annuncio è stato fatto a Bologna, in occasione di un'iniziativa ambientale. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 47,
+    "titolo": "Laura Bianchi ha acquisito BetaCorp",
+    "testo": "Oggi Laura Bianchi ha acquisito BetaCorp. L'annuncio è stato fatto a Roma, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 48,
+    "titolo": "Laura Bianchi ha acquisito AlfaTech",
+    "testo": "Oggi Laura Bianchi ha acquisito AlfaTech. L'annuncio è stato fatto a Roma, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 49,
+    "titolo": "Giuseppe Verdi ha acquisito AlfaTech",
+    "testo": "Oggi Giuseppe Verdi ha acquisito AlfaTech. L'annuncio è stato fatto a Roma, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 50,
+    "titolo": "Paolo Conti ha firmato un accordo con AlfaTech",
+    "testo": "Oggi Paolo Conti ha firmato un accordo con AlfaTech. L'annuncio è stato fatto a Firenze, in occasione di un piano di espansione. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 51,
+    "titolo": "Mario Rossi ha annunciato una collaborazione con DeltaSolutions",
+    "testo": "Oggi Mario Rossi ha annunciato una collaborazione con DeltaSolutions. L'annuncio è stato fatto a Torino, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 52,
+    "titolo": "Anna Neri ha annunciato una collaborazione con AlfaTech",
+    "testo": "Oggi Anna Neri ha annunciato una collaborazione con AlfaTech. L'annuncio è stato fatto a Torino, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 53,
+    "titolo": "Anna Neri ha inaugurato la nuova sede di BetaCorp",
+    "testo": "Oggi Anna Neri ha inaugurato la nuova sede di BetaCorp. L'annuncio è stato fatto a Bologna, in occasione di un piano di espansione. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 54,
+    "titolo": "Giuseppe Verdi ha acquisito GammaGroup",
+    "testo": "Oggi Giuseppe Verdi ha acquisito GammaGroup. L'annuncio è stato fatto a Milano, in occasione di un'iniziativa ambientale. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 55,
+    "titolo": "Anna Neri ha inaugurato la nuova sede di GammaGroup",
+    "testo": "Oggi Anna Neri ha inaugurato la nuova sede di GammaGroup. L'annuncio è stato fatto a Napoli, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 56,
+    "titolo": "Mario Rossi ha firmato un accordo con BetaCorp",
+    "testo": "Oggi Mario Rossi ha firmato un accordo con BetaCorp. L'annuncio è stato fatto a Milano, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 57,
+    "titolo": "Laura Bianchi ha inaugurato la nuova sede di DeltaSolutions",
+    "testo": "Oggi Laura Bianchi ha inaugurato la nuova sede di DeltaSolutions. L'annuncio è stato fatto a Roma, in occasione di un piano di espansione. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 58,
+    "titolo": "Giuseppe Verdi è stato nominato CEO di DeltaSolutions",
+    "testo": "Oggi Giuseppe Verdi è stato nominato CEO di DeltaSolutions. L'annuncio è stato fatto a Napoli, in occasione di un'iniziativa ambientale. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 59,
+    "titolo": "Laura Bianchi ha annunciato una collaborazione con AlfaTech",
+    "testo": "Oggi Laura Bianchi ha annunciato una collaborazione con AlfaTech. L'annuncio è stato fatto a Firenze, in occasione di un piano di espansione. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 60,
+    "titolo": "Paolo Conti ha inaugurato la nuova sede di GammaGroup",
+    "testo": "Oggi Paolo Conti ha inaugurato la nuova sede di GammaGroup. L'annuncio è stato fatto a Firenze, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 61,
+    "titolo": "Paolo Conti ha inaugurato la nuova sede di AlfaTech",
+    "testo": "Oggi Paolo Conti ha inaugurato la nuova sede di AlfaTech. L'annuncio è stato fatto a Milano, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 62,
+    "titolo": "Mario Rossi è stato nominato CEO di DeltaSolutions",
+    "testo": "Oggi Mario Rossi è stato nominato CEO di DeltaSolutions. L'annuncio è stato fatto a Bologna, in occasione di un'iniziativa ambientale. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 63,
+    "titolo": "Paolo Conti ha inaugurato la nuova sede di GammaGroup",
+    "testo": "Oggi Paolo Conti ha inaugurato la nuova sede di GammaGroup. L'annuncio è stato fatto a Firenze, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 64,
+    "titolo": "Anna Neri ha firmato un accordo con BetaCorp",
+    "testo": "Oggi Anna Neri ha firmato un accordo con BetaCorp. L'annuncio è stato fatto a Firenze, in occasione di un'iniziativa ambientale. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 65,
+    "titolo": "Chiara Moretti è stato nominato CEO di DeltaSolutions",
+    "testo": "Oggi Chiara Moretti è stato nominato CEO di DeltaSolutions. L'annuncio è stato fatto a Firenze, in occasione di un'iniziativa ambientale. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 66,
+    "titolo": "Anna Neri è stato nominato CEO di GammaGroup",
+    "testo": "Oggi Anna Neri è stato nominato CEO di GammaGroup. L'annuncio è stato fatto a Firenze, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 67,
+    "titolo": "Anna Neri ha acquisito GammaGroup",
+    "testo": "Oggi Anna Neri ha acquisito GammaGroup. L'annuncio è stato fatto a Firenze, in occasione di un piano di espansione. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 68,
+    "titolo": "Mario Rossi ha acquisito GammaGroup",
+    "testo": "Oggi Mario Rossi ha acquisito GammaGroup. L'annuncio è stato fatto a Milano, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 69,
+    "titolo": "Giuseppe Verdi ha acquisito AlfaTech",
+    "testo": "Oggi Giuseppe Verdi ha acquisito AlfaTech. L'annuncio è stato fatto a Napoli, in occasione di un'iniziativa ambientale. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 70,
+    "titolo": "Giuseppe Verdi è stato nominato CEO di DeltaSolutions",
+    "testo": "Oggi Giuseppe Verdi è stato nominato CEO di DeltaSolutions. L'annuncio è stato fatto a Torino, in occasione di un'iniziativa ambientale. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 71,
+    "titolo": "Mario Rossi è stato nominato CEO di GammaGroup",
+    "testo": "Oggi Mario Rossi è stato nominato CEO di GammaGroup. L'annuncio è stato fatto a Bologna, in occasione di un'iniziativa ambientale. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 72,
+    "titolo": "Mario Rossi è stato nominato CEO di DeltaSolutions",
+    "testo": "Oggi Mario Rossi è stato nominato CEO di DeltaSolutions. L'annuncio è stato fatto a Bologna, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 73,
+    "titolo": "Giuseppe Verdi ha firmato un accordo con AlfaTech",
+    "testo": "Oggi Giuseppe Verdi ha firmato un accordo con AlfaTech. L'annuncio è stato fatto a Firenze, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 74,
+    "titolo": "Mario Rossi ha firmato un accordo con AlfaTech",
+    "testo": "Oggi Mario Rossi ha firmato un accordo con AlfaTech. L'annuncio è stato fatto a Firenze, in occasione di un'iniziativa ambientale. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 75,
+    "titolo": "Paolo Conti ha annunciato una collaborazione con GammaGroup",
+    "testo": "Oggi Paolo Conti ha annunciato una collaborazione con GammaGroup. L'annuncio è stato fatto a Torino, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 76,
+    "titolo": "Laura Bianchi ha firmato un accordo con BetaCorp",
+    "testo": "Oggi Laura Bianchi ha firmato un accordo con BetaCorp. L'annuncio è stato fatto a Torino, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 77,
+    "titolo": "Mario Rossi ha annunciato una collaborazione con BetaCorp",
+    "testo": "Oggi Mario Rossi ha annunciato una collaborazione con BetaCorp. L'annuncio è stato fatto a Roma, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 78,
+    "titolo": "Giuseppe Verdi è stato nominato CEO di BetaCorp",
+    "testo": "Oggi Giuseppe Verdi è stato nominato CEO di BetaCorp. L'annuncio è stato fatto a Torino, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 79,
+    "titolo": "Mario Rossi ha inaugurato la nuova sede di BetaCorp",
+    "testo": "Oggi Mario Rossi ha inaugurato la nuova sede di BetaCorp. L'annuncio è stato fatto a Napoli, in occasione di un piano di espansione. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 80,
+    "titolo": "Chiara Moretti ha annunciato una collaborazione con DeltaSolutions",
+    "testo": "Oggi Chiara Moretti ha annunciato una collaborazione con DeltaSolutions. L'annuncio è stato fatto a Roma, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 81,
+    "titolo": "Giuseppe Verdi ha annunciato una collaborazione con BetaCorp",
+    "testo": "Oggi Giuseppe Verdi ha annunciato una collaborazione con BetaCorp. L'annuncio è stato fatto a Roma, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 82,
+    "titolo": "Chiara Moretti ha annunciato una collaborazione con DeltaSolutions",
+    "testo": "Oggi Chiara Moretti ha annunciato una collaborazione con DeltaSolutions. L'annuncio è stato fatto a Torino, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 83,
+    "titolo": "Paolo Conti è stato nominato CEO di BetaCorp",
+    "testo": "Oggi Paolo Conti è stato nominato CEO di BetaCorp. L'annuncio è stato fatto a Napoli, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 84,
+    "titolo": "Laura Bianchi ha acquisito BetaCorp",
+    "testo": "Oggi Laura Bianchi ha acquisito BetaCorp. L'annuncio è stato fatto a Bologna, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 85,
+    "titolo": "Mario Rossi ha annunciato una collaborazione con DeltaSolutions",
+    "testo": "Oggi Mario Rossi ha annunciato una collaborazione con DeltaSolutions. L'annuncio è stato fatto a Napoli, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 86,
+    "titolo": "Chiara Moretti è stato nominato CEO di AlfaTech",
+    "testo": "Oggi Chiara Moretti è stato nominato CEO di AlfaTech. L'annuncio è stato fatto a Torino, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 87,
+    "titolo": "Paolo Conti è stato nominato CEO di GammaGroup",
+    "testo": "Oggi Paolo Conti è stato nominato CEO di GammaGroup. L'annuncio è stato fatto a Napoli, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 88,
+    "titolo": "Laura Bianchi ha firmato un accordo con BetaCorp",
+    "testo": "Oggi Laura Bianchi ha firmato un accordo con BetaCorp. L'annuncio è stato fatto a Roma, in occasione di un piano di espansione. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 89,
+    "titolo": "Paolo Conti ha firmato un accordo con GammaGroup",
+    "testo": "Oggi Paolo Conti ha firmato un accordo con GammaGroup. L'annuncio è stato fatto a Napoli, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 90,
+    "titolo": "Laura Bianchi ha acquisito GammaGroup",
+    "testo": "Oggi Laura Bianchi ha acquisito GammaGroup. L'annuncio è stato fatto a Napoli, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 91,
+    "titolo": "Laura Bianchi ha firmato un accordo con AlfaTech",
+    "testo": "Oggi Laura Bianchi ha firmato un accordo con AlfaTech. L'annuncio è stato fatto a Bologna, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 92,
+    "titolo": "Giuseppe Verdi ha inaugurato la nuova sede di GammaGroup",
+    "testo": "Oggi Giuseppe Verdi ha inaugurato la nuova sede di GammaGroup. L'annuncio è stato fatto a Milano, in occasione di un importante progetto di ricerca. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 93,
+    "titolo": "Giuseppe Verdi ha inaugurato la nuova sede di DeltaSolutions",
+    "testo": "Oggi Giuseppe Verdi ha inaugurato la nuova sede di DeltaSolutions. L'annuncio è stato fatto a Torino, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 94,
+    "titolo": "Laura Bianchi ha acquisito AlfaTech",
+    "testo": "Oggi Laura Bianchi ha acquisito AlfaTech. L'annuncio è stato fatto a Milano, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 95,
+    "titolo": "Mario Rossi ha firmato un accordo con GammaGroup",
+    "testo": "Oggi Mario Rossi ha firmato un accordo con GammaGroup. L'annuncio è stato fatto a Firenze, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 96,
+    "titolo": "Paolo Conti ha inaugurato la nuova sede di DeltaSolutions",
+    "testo": "Oggi Paolo Conti ha inaugurato la nuova sede di DeltaSolutions. L'annuncio è stato fatto a Bologna, in occasione di un piano di espansione. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 97,
+    "titolo": "Chiara Moretti ha inaugurato la nuova sede di BetaCorp",
+    "testo": "Oggi Chiara Moretti ha inaugurato la nuova sede di BetaCorp. L'annuncio è stato fatto a Roma, in occasione di un piano di espansione. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 98,
+    "titolo": "Mario Rossi è stato nominato CEO di BetaCorp",
+    "testo": "Oggi Mario Rossi è stato nominato CEO di BetaCorp. L'annuncio è stato fatto a Milano, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 99,
+    "titolo": "Chiara Moretti ha inaugurato la nuova sede di GammaGroup",
+    "testo": "Oggi Chiara Moretti ha inaugurato la nuova sede di GammaGroup. L'annuncio è stato fatto a Bologna, in occasione di una nuova fabbrica. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  },
+  {
+    "id": 100,
+    "titolo": "Chiara Moretti ha annunciato una collaborazione con DeltaSolutions",
+    "testo": "Oggi Chiara Moretti ha annunciato una collaborazione con DeltaSolutions. L'annuncio è stato fatto a Napoli, in occasione di una linea ferroviaria. Molti rappresentanti istituzionali hanno partecipato alla conferenza stampa."
+  }
+]
