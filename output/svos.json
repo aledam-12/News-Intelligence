@@ -1,0 +1,24 @@
+[
+  {
+    "entità": [
+      "Paolo",
+      "sede"
+    ],
+    "relazione": "inaugurare"
+  },
+  {
+    "entità": [
+      "annuncio",
+      "Roma",
+      "occasione"
+    ],
+    "relazione": "fare"
+  },
+  {
+    "entità": [
+      "rappresentanti",
+      "conferenza"
+    ],
+    "relazione": "partecipare"
+  }
+]
